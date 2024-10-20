@@ -1,5 +1,7 @@
 **Automated Defect Detection** using computer vision and AI to monitor product quality during production in real time.
+
 **Real-time Quality Reports** generated directly from the factory floor, alerting management to defects before they leave the production line.
+
 **Supplier Quality Management** that tracks the quality of raw materials and components, ensuring they meet factory standards.
 
 ## Future Vision
