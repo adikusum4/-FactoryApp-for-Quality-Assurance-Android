@@ -4,6 +4,9 @@
 
 **Supplier Quality Management** that tracks the quality of raw materials and components, ensuring they meet factory standards.
 
+**Extra:**
+A full version of FactoryApp for Quality Assurance is available in my private repository.
+
 ## Future Vision
 - **Unified Platform with Modular Components:**
    - Rather than having separate apps, consider integrating all these functionalities into a **modular FactoryApp platform**. Users can enable or disable different modules (employee, machine, management, quality control) based on their specific needs.
